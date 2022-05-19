@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1651651309 source:c:\users\utilizator\desktop\lpc\pr62\liste.cpp
+
+1651651260 source:c:\users\utilizator\desktop\lpc\pr62\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1651651439 source:c:\users\utilizator\desktop\lpc\pr62\servis.cpp
+
+1651651755 source:c:\users\utilizator\desktop\lpc\pr62\actual.cpp
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	"Gara.h"
+
+1651651435 c:\users\utilizator\desktop\lpc\pr62\gara.h
+
+1652907340 source:d:\users\user\desktop\clths-main\lpc\pr62\actual.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Gara.h"
+
+1651619760 d:\users\user\desktop\clths-main\lpc\pr62\gara.h
+
+1652907340 source:d:\users\user\desktop\clths-main\lpc\pr62\liste.cpp
+
+1652907637 source:d:\users\user\desktop\clths-main\lpc\pr62\servis.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Gara.h"
+
+1652907637 source:d:\users\user\desktop\clths-main\lpc\pr62\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1652874340 source:d:\users\user\desktop\last\pr62\actual.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Gara.h"
+
+1652874340 d:\users\user\desktop\last\pr62\gara.h
+
+1652874340 source:d:\users\user\desktop\last\pr62\liste.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Gara.h"
+
+1652874340 source:d:\users\user\desktop\last\pr62\servis.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"Gara.h"
+
+1652988156 source:d:\users\user\desktop\last\pr62\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

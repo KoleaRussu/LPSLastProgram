@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652900456 source:d:\lpc\pellpr2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<iomanip>
+
+1652979556 source:d:\users\user\desktop\last\pellpr2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<iomanip>
+
